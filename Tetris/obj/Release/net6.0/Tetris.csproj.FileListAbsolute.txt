@@ -1,0 +1,15 @@
+N:\Downloads\Tetris\Tetris\bin\Release\net6.0\Tetris.exe
+N:\Downloads\Tetris\Tetris\bin\Release\net6.0\Tetris.deps.json
+N:\Downloads\Tetris\Tetris\bin\Release\net6.0\Tetris.runtimeconfig.json
+N:\Downloads\Tetris\Tetris\bin\Release\net6.0\Tetris.dll
+N:\Downloads\Tetris\Tetris\bin\Release\net6.0\Tetris.pdb
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.csproj.AssemblyReference.cache
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.AssemblyInfoInputs.cache
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.AssemblyInfo.cs
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.csproj.CoreCompileInputs.cache
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.dll
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\refint\Tetris.dll
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.pdb
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\Tetris.genruntimeconfig.cache
+N:\Downloads\Tetris\Tetris\obj\Release\net6.0\ref\Tetris.dll
